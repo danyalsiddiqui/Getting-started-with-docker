@@ -16,7 +16,6 @@ scalaVersion := "2.12.4"
 
 libraryDependencies ++= Seq(
   "com.typesafe.akka"           %%  "akka-http"                % akkaHttpVersion,
-  "com.typesafe.akka"           %% "akka-actor"                 %"2.3.6",
   "com.typesafe"                 % "config"                   % typesafeConfigVersion,
   "com.newmotion"               %% "akka-rabbitmq"            % "5.0.0",
   "com.softwaremill.sttp"       %% "core"                     % "1.1.3",

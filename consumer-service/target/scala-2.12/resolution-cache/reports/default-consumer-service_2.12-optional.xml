@@ -6,8 +6,8 @@
 		module="consumer-service_2.12"
 		revision="0.1"
 		conf="optional"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180308210303"/>
+		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180309003552"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
