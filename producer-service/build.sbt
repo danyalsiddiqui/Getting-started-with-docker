@@ -14,7 +14,6 @@ scalaVersion := "2.12.4"
 
 
 libraryDependencies ++= Seq(
-
   "com.typesafe.akka"           %% "akka-http"                % akkaHttpVersion,
   "com.typesafe"                 % "config"                   % typesafeConfigVersion,
   "com.newmotion"               %% "akka-rabbitmq"            % "5.0.0",
@@ -25,6 +24,7 @@ libraryDependencies ++= Seq(
   "ch.qos.logback"              % "logback-classic"           % "1.1.3" % Runtime
 )
 
+enablePlugins(JavaAppPackaging, AshScriptPlugin)
 
 mainClass in Compile := Some("akka.rabbitmq.StartServer")
 

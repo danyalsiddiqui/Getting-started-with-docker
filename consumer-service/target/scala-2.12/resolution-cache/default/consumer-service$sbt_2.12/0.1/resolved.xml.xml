@@ -4,7 +4,7 @@
 		module="consumer-service$sbt_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20180209235819"
+		publication="20180308210259"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

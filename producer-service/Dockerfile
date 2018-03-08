@@ -1,33 +1,20 @@
-FROM openjdk:8u151 
+FROM pliljenberg/scala-sbt:2.12.3-1.0.2 as builder
+WORKDIR /build
 
-# Env variables 
-ENV SCALA_VERSION 2.12.4 
-ENV SBT_VERSION 1.1.0
+COPY project /build/project
+RUN sbt update
 
-#Scala expects this file 
-RUN touch /usr/lib/jvm/java-8-openjdk-amd64/release
+COPY build.sbt /build
+RUN sbt update
 
-# Install Scala 
-## Piping curl directly in tar 
-RUN \
-  curl -fsL https://downloads.typesafe.com/scala/$SCALA_VERSION/scala-$SCALA_VERSION.tgz | tar xfz - -C /root/ && \
-  echo >> /root/.bashrc && \
-  echo "export PATH=~/scala-$SCALA_VERSION/bin:$PATH" >> /root/.bashrc
+COPY . /build
+RUN sbt clean test stage
 
 
-# Install sbt 
-RUN \
-  curl -L -o sbt-$SBT_VERSION.deb https://dl.bintray.com/sbt/debian/sbt-$SBT_VERSION.deb && \
-  dpkg -i sbt-$SBT_VERSION.deb && \
-  rm sbt-$SBT_VERSION.deb && \
-  apt-get update && \
-  apt-get install sbt && \
-  sbt sbtVersion
+FROM java:8-jre
 
+WORKDIR /opt
 
+COPY --from=builder /build/target/universal/stage/ /opt
 
-WORKDIR /producer-service
-
-ADD . /producer-service
-
-CMD sbt run
+ENTRYPOINT ["bin/producer-service"]

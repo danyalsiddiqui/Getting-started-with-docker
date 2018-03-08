@@ -4,7 +4,7 @@
 		module="consumer-service-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180207000249"
+		publication="20180308210242"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
