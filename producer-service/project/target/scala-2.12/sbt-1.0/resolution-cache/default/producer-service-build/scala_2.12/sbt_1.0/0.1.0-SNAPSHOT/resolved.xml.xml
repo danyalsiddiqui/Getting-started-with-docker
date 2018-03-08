@@ -4,7 +4,7 @@
 		module="producer-service-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180205223607"
+		publication="20180308214708"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
@@ -34,5 +34,6 @@
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.4" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.4" conf="scala-tool->default,optional(default);provided->default(compile)"/>
 		<dependency org="org.scala-sbt" name="sbt" rev="1.1.0" conf="provided->default(compile)"/>
+		<dependency org="com.typesafe.sbt" name="sbt-native-packager" rev="1.2.2" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
 	</dependencies>
 </ivy-module>

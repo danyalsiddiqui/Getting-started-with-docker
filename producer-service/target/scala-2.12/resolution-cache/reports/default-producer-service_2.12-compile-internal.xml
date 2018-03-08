@@ -6,8 +6,8 @@
 		module="producer-service_2.12"
 		revision="0.1"
 		conf="compile-internal"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180205230556"/>
+		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180308214955"/>
 	<dependencies>
 		<module organisation="com.lightbend.akka" name="akka-stream-alpakka-amqp_2.12">
 			<revision name="0.14" status="release" pubdate="20171023113844" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/akka/alpakka" extra-info.apiURL="http://developer.lightbend.com/docs/api/alpakka/0.14" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="21">

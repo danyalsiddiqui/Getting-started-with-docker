@@ -6,8 +6,8 @@
 		module="producer-service_2.12"
 		revision="0.1"
 		conf="plugin"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180205230556"/>
+		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180308214955"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>

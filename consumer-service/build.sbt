@@ -28,5 +28,7 @@ libraryDependencies ++= Seq(
   "net.liftweb" %% "lift-json" % "3.0.1"
 )
 
+enablePlugins(JavaAppPackaging, AshScriptPlugin)
+
 mainClass in Compile := Some("akka.rabbitmq.rabbitmq")
 

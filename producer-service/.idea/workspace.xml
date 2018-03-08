@@ -2,114 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="349dd0d9-820f-44b6-9f1b-5b8855edaaa8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__org_json4s_json4s_ast_2_12_3_6_0_M1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__org_json4s_json4s_core_2_12_3_6_0_M1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__org_json4s_json4s_jackson_2_12_3_6_0_M1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/libraries/sbt__org_json4s_json4s_scalap_2_12_3_6_0_M1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/misc.xml" afterPath="$PROJECT_DIR$/../consumer-service/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/modules/consumer-service.iml" afterPath="$PROJECT_DIR$/../consumer-service/.idea/modules/consumer-service.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../consumer-service/src/main/resources/application.conf" />
       <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../consumer-service/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$14c14ae9eeea2a2f49b2$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$14c14ae9eeea2a2f49b2.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$14c14ae9eeea2a2f49b2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$1be4197e9b6c73d308e7$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$1be4197e9b6c73d308e7.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$1be4197e9b6c73d308e7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$45d1344ec72d9c7f9229$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$45d1344ec72d9c7f9229.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$45d1344ec72d9c7f9229.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$971a745d50a420044c48$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$971a745d50a420044c48.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$971a745d50a420044c48.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$d97854d1b641db2e0c2c$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$d97854d1b641db2e0c2c.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$d97854d1b641db2e0c2c.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$dac045cf813eb68f285b$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$dac045cf813eb68f285b.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$dac045cf813eb68f285b.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$dea3eab210c726328e71$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$dea3eab210c726328e71.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/config-classes/$dea3eab210c726328e71.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/default/consumer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/default/consumer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/default/consumer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/default/consumer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-compile-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-compile.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-optional.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-plugin.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-pom.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-provided.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-runtime.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-scala-tool.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-test-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-test.xml" afterPath="$PROJECT_DIR$/../consumer-service/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-consumer-service-build-test.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/Dockerfile" afterPath="$PROJECT_DIR$/../consumer-service/Dockerfile" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/build.sbt" afterPath="$PROJECT_DIR$/../consumer-service/build.sbt" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/project/plugins" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../consumer-service/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sbt_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sbt_2.12/0.1/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sbt_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sbt_2.12/0.1/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources/0.1/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources/0.1/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources_2.12/0.1/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service$sources_2.12/0.1/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service_2.12/0.1/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/default/consumer-service_2.12/0.1/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-compile.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-optional.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-provided.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-runtime.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-test.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sbt_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-compile-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-compile.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-optional.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-plugin.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-pom.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-provided.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-runtime-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-runtime.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-scala-tool.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-test-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-test.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources-test.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-default.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-default.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service$sources_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-compile.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-optional.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-plugin.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-pom.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-provided.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-runtime.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-test.xml" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/resolution-cache/reports/default-consumer-service_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/../consumer-service/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../consumer-service/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../consumer-service/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/../consumer-service/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../consumer-service/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../consumer-service/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/src/main/scala/akka/rabbitmq/SqlQueries.scala" afterPath="$PROJECT_DIR$/../consumer-service/src/main/scala/akka/rabbitmq/SqlQueries.scala" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/src/main/scala/akka/rabbitmq/StoreData.scala" afterPath="$PROJECT_DIR$/../consumer-service/src/main/scala/akka/rabbitmq/StoreData.scala" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/src/main/scala/akka/rabbitmq/rabbitmq.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/RootHandler.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/RootHandler.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/SqlQueries$.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/SqlQueries$.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/SqlQueries.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/SqlQueries.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/StoreData$RsExtender.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/StoreData$RsExtender.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/StoreData.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/StoreData.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq$$anon$1.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq$$anon$1.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq$.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq$.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq$delayedInit$body.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq$delayedInit$body.class" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq.class" afterPath="$PROJECT_DIR$/../consumer-service/target/scala-2.12/classes/akka/rabbitmq/rabbitmq.class" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" afterPath="$PROJECT_DIR$/../docker-compose.yml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/producer-service-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/producer-service-build.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/producer-service.iml" afterPath="$PROJECT_DIR$/.idea/modules/producer-service.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change beforePath="$PROJECT_DIR$/project/plugins" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer$delayedInit$body.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$01c0981807c4d9fe2e3c$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$01c0981807c4d9fe2e3c.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$01c0981807c4d9fe2e3c.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$528f8f909920661776ee$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$528f8f909920661776ee.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$528f8f909920661776ee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$680594cb0625bf25dd51$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$680594cb0625bf25dd51.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$680594cb0625bf25dd51.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$931ffa6dde41519fcee4$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$931ffa6dde41519fcee4.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$931ffa6dde41519fcee4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca4ad8e4e9e638171e96$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca4ad8e4e9e638171e96.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca4ad8e4e9e638171e96.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc29031af08f9b5026f6$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc29031af08f9b5026f6.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc29031af08f9b5026f6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7829582a482e1a95d1c$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7829582a482e1a95d1c.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7829582a482e1a95d1c.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/producer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/producer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/producer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/producer-service-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-producer-service-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer$delayedInit$body.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/akka/rabbitmq/StartServer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sbt_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sbt_2.12/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sbt_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sbt_2.12/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources_2.12/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service$sources_2.12/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service_2.12/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/producer-service_2.12/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sbt_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-default.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-default.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service$sources_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-producer-service_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -133,7 +150,7 @@
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,11 +166,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartServer.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+      <file leaf-file-name="QuickStartServer.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="180">
+              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="e#23#59#0" expanded="true" />
               </folding>
@@ -164,8 +181,8 @@
       <file leaf-file-name="application.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="324">
+              <caret line="18" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -175,7 +192,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -211,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
         <option value="$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala" />
       </list>
     </option>
   </component>
@@ -236,6 +254,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -286,9 +306,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,7 +343,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="akka.rabbitmq.StartServer" />
+      <option name="MAIN_CLASS_NAME" value="akka.rabbitmq.QuickStartServer" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -418,7 +436,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1517869007330" />
+    <option name="lastUpdateTimestamp" value="1520542211642" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -480,9 +498,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882884" sideWeight="0.5057648" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.50883937" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882884" sideWeight="0.49423522" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882884" sideWeight="0.49116063" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -517,6 +535,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="e#23#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -531,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
@@ -573,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -607,7 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
@@ -641,7 +709,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
@@ -659,7 +727,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -696,7 +764,7 @@
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -704,23 +772,23 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="324">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/StartServer.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/akka/rabbitmq/QuickStartServer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="180">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="e#23#59#0" expanded="true" />
           </folding>

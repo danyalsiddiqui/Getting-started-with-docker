@@ -1,9 +1,7 @@
 package akka.rabbitmq
-import java.sql.{Connection, DriverManager, ResultSet}
-import org.postgresql.jdbc4._;
-import javax.sql.DataSource
-import scala.collection.mutable._
 
+import java.sql.{Connection, DriverManager, ResultSet}
+import com.typesafe.config.{Config, ConfigFactory}
 import scala.collection.mutable.ListBuffer
 
 
@@ -35,7 +33,14 @@ class StoreData extends  SaveDataInDb {
   }
 
   classOf[org.postgresql.Driver]
-  val conn_str = "jdbc:postgresql://"+sys.env("POSTGRES_HOST")+"/"+sys.env("POSTGRES_DB")+"?user="+sys.env("POSTGRES_USER")+"&password="+sys.env("POSTGRES_PASSWORD");
+  private val config: Config = ConfigFactory.load()
+  private val postgresHost = config.getString("postgres.hostName")
+  private val postgresDB = config.getString("postgres.db")
+  private val postgresUser = config.getString("postgres.user")
+  private val postgresPassword = config.getString("postgres.password")
+
+
+  val conn_str = "jdbc:postgresql://"+postgresHost+"/"+postgresDB+"?user="+postgresUser+"&password="+postgresPassword;
   val connection = DriverManager.getConnection(conn_str)
 
   def Insert (message : Message) = {
@@ -61,8 +66,16 @@ class StoreData extends  SaveDataInDb {
   def CreateDbTableIfNotExist (tableName : String ) = {
     try
     {
-      val stm = connection.prepareStatement(SqlQueries.CreateTable);
-      stm.execute();
+      var query = SqlQueries.TableAlreadyExist  //Table Exist query
+      var statment = connection.prepareStatement(query)
+      statment.setString(1,tableName.toLowerCase()) // Adding table name as parameter in the statment
+      var rs = statment.executeQuery()
+      if(! rs.next()) // if the result is empty then create new table
+      {
+        val stm = connection.prepareStatement(SqlQueries.CreateTable) //create table
+        stm.execute();
+      }
+
     }
     catch
     {

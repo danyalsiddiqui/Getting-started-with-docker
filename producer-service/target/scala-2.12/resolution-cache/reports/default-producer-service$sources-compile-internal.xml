@@ -6,8 +6,8 @@
 		module="producer-service$sources"
 		revision="0.1"
 		conf="compile-internal"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180205231639"/>
+		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180308215009"/>
 	<dependencies>
 		<module organisation="com.newmotion" name="akka-rabbitmq_2.12">
 			<revision name="5.0.0" status="release" pubdate="20171219151107" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/NewMotion/akka-rabbitmq" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="13">
