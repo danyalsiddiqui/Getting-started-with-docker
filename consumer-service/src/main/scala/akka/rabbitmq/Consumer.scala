@@ -6,7 +6,7 @@ import java.net.InetSocketAddress
 
 import com.sun.net.httpserver.{HttpExchange, HttpHandler, HttpServer}
 
-object rabbitmq extends  App{
+object Consumer extends  App{
 
   //variable declaration
   private val config: Config = ConfigFactory.load()

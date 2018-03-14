@@ -6,9 +6,6 @@
         </encoder>
     </appender>
 
-    <appender name="JSON" class="ch.qos.logback.core.ConsoleAppender">
-        <encoder class="net.logstash.logback.encoder.LogstashEncoder" />
-    </appender>
 
     <logger name="com.adfenix" level="DEBUG" />
     <logger name="akka.event" level="INFO" />
@@ -17,6 +14,6 @@
     <logger name="org.http4s" level="INFO" />
 
     <root level="DEBUG">
-        <appender-ref ref="${LOGFORMAT:-JSON}" />
+        <appender-ref ref="${LOGFORMAT:-TEXT}" />
     </root>
 </configuration>

@@ -29,5 +29,4 @@ libraryDependencies ++= Seq(
 
 enablePlugins(JavaAppPackaging, AshScriptPlugin)
 
-mainClass in Compile := Some("akka.rabbitmq.rabbitmq")
 
