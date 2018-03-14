@@ -70,7 +70,7 @@ class StoreData extends  SaveDataInDb {
       var statment = connection.prepareStatement(query)
       statment.setString(1,tableName.toLowerCase()) // Adding table name as parameter in the statment
       var rs = statment.executeQuery()
-      if(! rs.next()) // if the result is empty then create new table
+      if(!rs.isBeforeFirst()) // if the result is empty then create new table
       {
         val stm = connection.prepareStatement(SqlQueries.CreateTable) //create table
         stm.execute();
